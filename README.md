@@ -13,7 +13,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-* 熟练掌握 typescript、es6，深入了解js原型链、Promise、Event-loop等
+* 熟练掌握 typescript、es6，深入了解js Promise、Event-loop等
 * 具备 vue、react、react-native 等前端框架开发经验
 * 熟悉 vue2/3，react-hooks及其核心源码实现
 * 熟悉 前端工程化。使用nodejs开发工具链；使用gitlab ci/cd做自动化测试和部署
