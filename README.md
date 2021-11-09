@@ -70,10 +70,14 @@
 	
 	并统一处理微服务的返回数据或报错，提供给前端更友好的返回结果
 
-1. > 基于gitlab配置CI工作流
+1. > 负责前端项目的部署
 
-	自动完成测试环境下项目打包和部署的工作
+	使用linux + docker + nginx，提高部署的效率
 	
+	基于gitlab配置CI工作流，自动完成测试环境下项目打包和部署的工作
+	
+	部署jenkins工具，提供给实施对客户正式环境进行更新
+
 1. > 负责客户服务器(Centos7)部署。
 
    使用 Prometheus 对客户服务器进行实时监控和报警
@@ -114,27 +118,3 @@ js研发工程师
 1. 爱“偷懒”，善于总结封装，从而提高开发效率
 
 1. 性格外向，善于沟通，喜欢户外和手游
-
-<!-- 
-* 了解前端性能优化，了解http/https
-webpack打包时间优化
-前端性能监控和优化
-大文件上传
-vscode extends
-webpack、jest、less、git、linux、docker
- -->
-
-<!--
-**MaShizhen/MaShizhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
