@@ -1,101 +1,65 @@
 # <center>马士振</center>
 
 <center>
-15539971303 | dohard@163.com | https://github.com/mashizhen
+15539971303 | dohard@163.com 
 
-3年 | 前端工程师
+3年 | 前端工程师 | 本科
+
+https://github.com/mashizhen
+
 </center>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaShizhen)](https://github.com/anuraghazra/github-readme-stats) -->
 
 # 专业技能
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-
-* 熟练掌握 typescript、es6
-* 具备 vue、react-native 等前端框架开发经验
-* 熟悉 vue2/3，react-hooks及其核心源码实现
-* 熟悉 前端工程化。使用nodejs开发工具链；使用gitlab ci/cd做自动化测试和部署
-* 熟练掌握linux，具备docker、nginx使用经验。熟练掌握git
-* 掌握前端项目性能优化
+* 精通 css3、es6、typescript
+* 熟练使用 vue、react-native 等前端框架
+* 熟练nodejs，对前端工具链和服务端开发
+* 熟练掌握使用git、webpack、gulp等前端工程化工具
+* 了解 vue2/3，react-hooks及其核心源码实现
+* 熟练掌握linux，具备docker、nginx、CI使用经验
 
 # 工作经历
 
-## 深圳市易美科软件有限公司(2019年11月 -- 2021年10月)
+## 深圳市易美科软件有限公司<span style="float: right">2019年11月 -- 2021年10月</span>
 
 ### ***岗位***
 
 前端技术负责人
 
-### ***业绩***
+### ***工作经验***
 
-1. > 调度管理6人前端开发团队。
+1. 管理6人前端开发团队。制定开发进度和规范。定期code-review和分享培训的方式，短期内提高团队的战斗力。在职期间累积分享次数50+。
 
-	制定开发流程和规范，保证在多项目并行下工作有条不紊。
-	
-	通过code-review和定期分享培训的方式，短期内提高团队的战斗力。
-	
-	协助每位同事在完成工作的同时，对自身的技术也进一步提升。在职期间累积分享次数50+。
+1. 负责公司组件库的搭建和研发。抽离业务，封装可复用的工具库和组件库，并发布到私有npm仓库。在职期间累计封装70+工具，30+组件
 
-1. > 负责搭建基础工具库和组件库
-	
-	抽离业务，保证可以在多个项目进行复用。
-	
-	发布到内部npm仓库，并整理组件在线文档，保证团队可以直观性查找和使用。
+1. 负责协同报价平台的开发。对webpack配置优化，打包速度从3分钟优化到1分钟内。
 
-1. > 使用vue2从0到1搭建项目架构
+1. 负责思方云erp APP的研发。使用react-native + typescript进行重构，支持android、ios跨端运行，具备xcode和ios证书等配置经验
 
-	并在项目过大时优化热更新和打包速度，打包速度从3分钟优化到1分钟内。
+1. 负责易美科自动化运维平台开发。使用nodejs+shell，开发cli命令行工具，实现客户内网之间不同服务器之间的数据库和程序同步，以及日志的分析提取功能
 
-	使用gulp替代一些手动的工作，提高开发效率。
+1. 负责公司API 网关搭建。基于express框架，实现鉴权、excel导入导出、微服务转发等功能。
 
-1. > 重构之前用c#开发APP项目
+1. 同时担任公司运维一职，负责客户服务器(Centos7)的安装和程序部署，并使用 Prometheus 对客户服务器进行实时监控和报警；部署jenkins工具，提供给实施对客户正式环境进行更新
 
-	使用流行的 react-native + typescript架构
-
-	并能够保证android和ios两个平台的运行
-
-1. > 使用nodejs+shell，开发cli工具
-
-	实现centos系统部署和数据库同步自动化。
-	
-	其中数据库同步工作的自动化，极大程度得解放了运维工作对注意力的束缚性。
-
-1. > 使用express框架搭建BFF层
-	
-	实现鉴权、excel导入导出等功能
-	
-	并统一处理微服务的返回数据或报错，提供给前端更友好的返回结果
-
-1. > 负责前端项目的部署
-
-	使用linux + docker + nginx，提高部署的效率
-	
-	基于gitlab配置CI工作流，自动完成测试环境下项目打包和部署的工作
-	
-	部署jenkins工具，提供给实施对客户正式环境进行更新
-
-1. > 负责客户服务器(Centos7)部署。
-
-   使用 Prometheus 对客户服务器进行实时监控和报警
+1. 负责公司所有项目的部署工作。使用docker，nginx对项目进行部署。配置gitlab CI工作流，自动完成测试环境下项目打包和部署的工作。
 
 
-## 郑州飞道科技有限公司(2017年10月 -- 2019年10月)
+## 郑州飞道科技有限公司<span style="float: right">2017年10月 -- 2019年10月</span>
 
 ### ***岗位***
 
 js研发工程师
 
-### ***业绩***
+### ***项目经验***
 
-
-1. 使用vue全家桶完成web网页的业务功能开发
-1. 依照Web Components规范，使用Shadow DOM对组件进行实现和封装，并发布到私有npm
-1. 带领团队独立完成微信小程序和公众号开发的开发
-1. 参与公司vscode拓展的开发维护，实现快速的检索工具库和组件库并安装，快速插入代码片段
+1. 使用vue全家桶参与魔炫排播系统的功能开发
+1. 封装js原生组件。依照Web Components规范，使用Shadow DOM对组件进行实现和封装，并发布到私有npm
+1. 负责奔宇商城小程序开发。带领团队独立完成微信小程序和公众号开发的开发
+1. 参与公司vscode拓展feidao-tools的开发维护，实现快速的检索工具库和组件库并安装，快速插入代码片段
+1. 参与河南省文明办h5考试项目开发，具备10万+的并发处理经验
 
 # 教育经历
 
