@@ -1,11 +1,9 @@
 # <center>马士振</center>
 
 <center>
-15539971303 | dohard@163.com 
+15539971303 | dohard@163.com
 
 3年 | 前端工程师 | 本科
-
-https://github.com/mashizhen
 
 </center>
 
@@ -14,11 +12,13 @@ https://github.com/mashizhen
 # 专业技能
 
 * 精通 css3、es6、typescript
-* 熟练使用 vue、react-native 等前端框架
+* 熟练使用 vue、react、react-native 等前端框架
 * 熟练nodejs，对前端工具链和服务端开发
-* 熟练掌握使用git、webpack、gulp等前端工程化工具
+* 熟练掌握使用webpack、gulp等前端工程化工具
 * 了解 vue2/3，react-hooks及其核心源码实现
-* 熟练掌握linux，具备docker、nginx、CI使用经验
+* 熟练掌握linux基础、git、docker、nginx、CI使用经验
+* npm主页地址 https://www.npmjs.com/~dohard ，https://www.npmjs.com/~mashizhen
+* gitlab主页地址 https://github.com/mashizhen
 
 # 工作经历
 
@@ -77,7 +77,7 @@ js研发工程师
 
 1. 热爱前端技术，保持对前端领域的不断学习
 
-1. 热爱开源和技术分享，经常混迹于gitlab和npm
+1. 热爱开源和技术分享，具备英语阅读能力，经常混迹于gitlab和npm
 
 1. 爱“偷懒”，善于总结封装，从而提高开发效率
 
