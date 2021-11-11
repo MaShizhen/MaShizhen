@@ -4,7 +4,11 @@
 15539971303 | dohard@163.com
 
 3年 | 前端工程师 | 本科
-
+  
+npm主页地址 https://www.npmjs.com/~dohard ，https://www.npmjs.com/~mashizhen
+  
+gitlab主页地址 https://github.com/mashizhen
+  
 </center>
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaShizhen)](https://github.com/anuraghazra/github-readme-stats) -->
@@ -17,8 +21,6 @@
 * 熟练掌握使用webpack、gulp等前端工程化工具
 * 了解 vue2/3，react-hooks及其核心源码实现
 * 熟练掌握linux基础、git、docker、nginx、CI使用经验
-* npm主页地址 https://www.npmjs.com/~dohard ，https://www.npmjs.com/~mashizhen
-* gitlab主页地址 https://github.com/mashizhen
 
 # 工作经历
 
